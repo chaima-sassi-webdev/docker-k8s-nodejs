@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "json-app",
   "version": "1.0.0-beta.3",
   "description": "",
   "type": "module",
@@ -54,10 +54,12 @@
     "dot-prop": "^9.0.0",
     "eta": "^3.5.0",
     "inflection": "^3.0.0",
+    "json-server": "^1.0.0-beta.3",
     "json5": "^2.2.3",
     "lowdb": "^7.0.1",
     "milliparsec": "^4.0.0",
     "sirv": "^2.0.4",
-    "sort-on": "^6.1.0"
+    "sort-on": "^6.1.0",
+    "steno": "^4.0.2"
   }
 }
